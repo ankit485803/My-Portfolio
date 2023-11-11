@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(15, 246, 246);
+    padding: 2px;
+    margin: 25px;
+}
+
+
+img{
+    align-items: center;
+    position: relative;
+    top: 30px;
+}
+
+
+#welcome{
+    color: red;
+    text-decoration: dotted;
+    text-align:start;
+    text-transform: initial;
+    text-shadow:rgb(18, 15, 14);
+    font-weight:300;
+    position: relative;
+    top: 20px;
+    
+}
+ 
+
+.portfolioSection:hover {
+        color: red;
+        background-color: rgb(10, 191, 10);
+    
+}
